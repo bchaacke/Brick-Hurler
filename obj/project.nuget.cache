@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vzfYQXHBmMZRcPtlgiRnrJ4eTlxW3VM1P02QIxF6v/Kx1emj6jYHDs1aW51U7mgy+ZKAhGRvqi7OqKrqD7CSYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bchaa\\Documents\\GitHub\\Final-Project\\Final-Project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bchaa\\.nuget\\packages\\raylib-cs\\4.2.0.1\\raylib-cs.4.2.0.1.nupkg.sha512",
+    "C:\\Users\\bchaa\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
